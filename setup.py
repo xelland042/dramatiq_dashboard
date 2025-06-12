@@ -55,7 +55,7 @@ extra_dependencies["dev"] = extra_dependencies["all"] + [
 ]
 
 setup(
-    name="dramatiq_dashboard",
+    name="dramatiq-dashboard-xelland",
     version=version,
     author="Bogdan Popa",
     author_email="bogdan@cleartype.io",
